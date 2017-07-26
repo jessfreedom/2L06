@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{8C977840-B0A7-42EB-937E-B83CB7B4A4CB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="2L06mabob/Models/AzureManager.cs">
+    <Files>
+      <File FileName="2L06mabob/2L06mabobPage.xaml" Line="21" Column="40" />
+      <File FileName="2L06mabob/Models/gingerbeer.cs" Line="10" Column="9" />
+      <File FileName="2L06mabob/Models/AzureManager.cs" Line="18" Column="65" />
+      <File FileName="packages/Xam.Plugin.Media.3.0.1/readme.txt" Line="1" Column="1" />
+      <File FileName="2L06mabob/2L06mabobPage.xaml.cs" Line="50" Column="1" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="../../../../../../../Library/Frameworks/Mono.framework/Versions/5.0.1/lib/mono/msbuild/15.0/bin/Microsoft.Common.CurrentVersion.targets" Line="1980" Column="5" />
+      <File FileName="../../../../../../../Library/Frameworks/Xamarin.Android.framework/Versions/7.3.1-2/lib/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1965" Column="3" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="../../../../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/10.10.0.36/lib/msbuild/iOS/Xamarin.iOS.Common.targets" Line="605" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2L06mabob" expanded="True">
+            <Node name="2L06mabob" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="AzureManager.cs" selected="True" />
+              </Node>
+              <Node name="2L06mabobPage.xaml" expanded="True" />
+            </Node>
+            <Node name="2L06mabob.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.2L06mabob.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.2L06mabob.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.54ca61a0cfdc54cdbb437666761b8bb9a8a9c827" />
+  <MultiItemStartupConfigurations />
+</Properties>
